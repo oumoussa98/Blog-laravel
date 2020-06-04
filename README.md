@@ -7,7 +7,7 @@ i'm still learning new things and i'll upgrade it as much as i can
 ## Quik start
 1: create a new database and call it blog
 then use composer and run commande "php artisan migrate"
-or you can set the your database connection and other settings from .env file
+or you can set the your database connection and other settings from .env file<br>
 2: create a shorcut for storage folder in the public folder 
 you can use composer "php artisan storage:link" or do it manually
 so that you can store images
