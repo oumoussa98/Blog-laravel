@@ -12,8 +12,6 @@ or you can set the your database connection and other settings from .env file
 you can use composer "php artisan storage:link" or do it manually
 so that you can store images
 
-
-
-## License
-
-this blog is open-sourced software licensed
+## Screenshots
+<img src="https://github.com/oumoussa98/blog-laravel/blob/master/screenshots/screenshot1.PNG">
+<img src="https://github.com/oumoussa98/blog-laravel/blob/master/screenshots/screenshot2.PNG">
